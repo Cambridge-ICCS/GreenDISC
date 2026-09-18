@@ -5,3 +5,6 @@ https://github.com/Cambridge-Sustainable-Computing-Lab/greenDiSC/blob/main/Crite
 
 ### Reference template for inventory building
 (https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJhCOhJHdSKYH6c0cKhPyXy3UUZzWpv7WI/edit?usp=sharing)
+
+### GreenDISC online forum
+https://forum.escs-community.org/c/green-disc/9
