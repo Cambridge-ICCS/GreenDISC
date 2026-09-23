@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJhCOhJHdSKYH6c0cKhPyXy3UUZzWpv
 
 ### GreenDISC online forum
 https://forum.escs-community.org/c/green-disc/9
+
+### Upcoming deadlines:
+Wednesday, 18 November 2026
