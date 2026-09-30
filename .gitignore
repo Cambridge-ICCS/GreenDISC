@@ -1,0 +1,51 @@
+# ---------------- macOS ----------------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.fseventsd
+.apdisk
+Icon?
+
+# ---------------- Windows ----------------
+[Tt]humbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---------------- Linux ----------------
+.directory
+.fuse_hidden*
+.nfs*
+.Trash-*
+
+# ---------------- Editors / IDEs ----------------
+# Vim
+*.sw[n-p]
+*~
+*.un~
+# Emacs
+\#*#
+.#*
+# IDEs
+.vscode/
+.idea/
+
+# --------------- Backup / temp filetypes ----------------
+*.tmp
+*.temp
+
+# ---------------- Office / LibreOffice lock files ----------------
+~$*
+.~lock.*#
+
+# ---------------- Credentials / local config ----------------
+.env
+.env.*
+*.pem
+*.key
