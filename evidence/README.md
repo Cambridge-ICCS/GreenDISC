@@ -17,8 +17,8 @@ Evidence is grouped by GreenDiSC category, with one subdirectory per criterion:
 * `data-storage/`: DS1 and DS2
 * `compute/`: HPC1 to HPC3
 
-Each criterion directory has a README stating the criteria, what evidence it
-contains, and how it is maintained.
+Each criterion directory holds the evidence files for that criterion.
+This README is the single index for all of them.
 
 ## Update frequency
 
