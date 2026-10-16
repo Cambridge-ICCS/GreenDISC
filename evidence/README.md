@@ -37,4 +37,11 @@ How often the evidence for each criterion needs updating:
   G4 dissemination (per promotion activity),
   HPC3 best practices (per training session)
 
-[Google Sheets for inventory logging]: Green DiSC Inventory.xlsx
+## Inventory spreadsheet
+
+The inventory criteria (O1, O2, DS1, HPC1, HPC2, HPC3) are tracked in a single
+spreadsheet, with one tab per inventory:
+
+* [Green DiSC Inventory (Google Sheets)](https://docs.google.com/spreadsheets/d/15jcCD2Ig1MkHKncvauN3nEL2SgUuFa67DVHn6lpF7fg)
+* Based on the
+  [GreenDiSC reference template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJhCOhJHdSKYH6c0cKhPyXy3UUZzWpv7WI)
