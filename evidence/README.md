@@ -8,22 +8,40 @@ Evidence may live here directly (documents, screenshots, exports) or be linked
 from here (e.g. Google docs/sheets, team webpages). Anything an auditor
 cannot open should be exported or screenshotted into this repo.
 
-## Update frequency
+## Structure
 
-| ID   | Criterion                                        | Update frequency                |
-| ---- | ------------------------------------------------ | ------------------------------- |
-| G1   | Green DiSC representative                        | On change of representative     |
-| G2   | Computing sustainability in induction procedures | When induction material changes |
-| G3   | Resources shared with other groups               | Per sharing event               |
-| G4   | Green DiSC dissemination                         | Per promotion activity          |
-| O1   | Computing hardware inventory                     | Yearly                          |
-| O2   | Unused computing equipment inventory             | Yearly                          |
-| O3   | E-waste processing streams and policy            | When policy/streams change      |
-| DS1  | Data resource inventory                          | Yearly (at least)               |
-| DS2  | Data directory cleaning                          | Quarterly (ideal)               |
-| HPC1 | Computing infrastructure inventory               | Yearly                          |
-| HPC2 | Computing pipeline inventory                     | Yearly                          |
-| HPC3 | Green computing best practices                   | Per training session            |
+Evidence is grouped by GreenDiSC category, with one subdirectory per criterion.
+See the
+[Bronze Research Group criteria](https://github.com/Cambridge-Sustainable-Computing-Lab/greenDiSC/blob/main/Criteria/Bronze/Research%20Group%20-%20Bronze.md)
+for what each category and criterion involves.
 
-Reference template for the inventory criteria (O1, O2, DS1, HPC1, HPC2, HPC3):
-[Google Sheets template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJhCOhJHdSKYH6c0cKhPyXy3UUZzWpv7WI)
+* `general/`: G1 to G4
+* `offices/`: O1 to O3
+* `data-storage/`: DS1 and DS2
+* `compute/`: HPC1 to HPC3
+
+Each criterion directory holds the evidence files for that criterion.
+
+## Task frequency
+
+How often the evidence for each criterion needs updating:
+
+* **Quarterly (ideal):** DS2 data directory cleaning
+* **Yearly:** O1 hardware inventory, O2 unused equipment inventory,
+  DS1 data resource inventory (at least yearly),
+  HPC1 infrastructure inventory, HPC2 pipeline inventory
+* **On joining/leaving:** G1 Green DiSC representative (on change of representative)
+* **On change:** G2 induction procedures (when induction material changes),
+  O3 e-waste streams and policy (when policy/streams change)
+* **Per event:** G3 resources shared with other groups (per sharing event),
+  G4 dissemination (per promotion activity),
+  HPC3 best practices (per training session)
+
+## Inventory spreadsheet
+
+The inventory criteria (O1, O2, DS1, HPC1, HPC2, HPC3) are tracked in a single
+spreadsheet, with one tab per inventory:
+
+* [Green DiSC Inventory (Google Sheets)](https://docs.google.com/spreadsheets/d/15jcCD2Ig1MkHKncvauN3nEL2SgUuFa67DVHn6lpF7fg)
+* Based on the
+  [GreenDiSC reference template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJhCOhJHdSKYH6c0cKhPyXy3UUZzWpv7WI)
