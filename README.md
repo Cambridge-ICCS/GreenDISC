@@ -8,6 +8,11 @@ There is an [associated project board](https://github.com/orgs/Cambridge-ICCS/pr
 
 The [ICCS RSE Team Submission Form (Google doc)](https://docs.google.com/document/d/1IWMkqE60JtJucSepLCFYyE_qyTxh6P8mTAl4GEWJadE)
 
+## Green DiSC representatives
+
+* [Surbhi Goel](https://iccs.cam.ac.uk/people/surbhi-goel) - `sg2147@cam.ac.uk`
+* [Jack Atkinson](https://iccs.cam.ac.uk/people/jack-atkinson) - `jwa34@cam.ac.uk`
+
 ## Useful Resources
 
 * [GreenDiSC GitHub](https://github.com/Cambridge-Sustainable-Computing-Lab/greenDiSC)
