@@ -22,4 +22,19 @@ for what each category and criterion involves.
 
 Each criterion directory holds the evidence files for that criterion.
 
+## Task frequency
+
+How often the evidence for each criterion needs updating:
+
+* **Quarterly (ideal):** DS2 data directory cleaning
+* **Yearly:** O1 hardware inventory, O2 unused equipment inventory,
+  DS1 data resource inventory (at least yearly),
+  HPC1 infrastructure inventory, HPC2 pipeline inventory
+* **On joining/leaving:** G1 Green DiSC representative (on change of representative)
+* **On change:** G2 induction procedures (when induction material changes),
+  O3 e-waste streams and policy (when policy/streams change)
+* **Per event:** G3 resources shared with other groups (per sharing event),
+  G4 dissemination (per promotion activity),
+  HPC3 best practices (per training session)
+
 [Google Sheets for inventory logging]: Green DiSC Inventory.xlsx
