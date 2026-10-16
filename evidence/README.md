@@ -1,6 +1,8 @@
 # Evidence for GreenDiSC Bronze
 
-This directory collects evidence for each Bronze criterion as we work towards certification, and future Silver/Gold applications.
+This directory collects evidence for each Bronze criterion as we work towards
+certification, and is maintained for recertification (every 2 years)
+and future Silver/Gold applications.
 
 Evidence may live here directly (documents, screenshots, exports) or be linked
 from here (e.g. Google docs/sheets, team webpages). 
