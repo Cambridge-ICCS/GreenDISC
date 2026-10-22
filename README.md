@@ -10,8 +10,12 @@ The [ICCS RSE Team Submission Form (Google doc)](https://docs.google.com/documen
 
 ## Green DiSC representatives
 
-* [Surbhi Goel](https://iccs.cam.ac.uk/people/surbhi-goel) - `sg2147@cam.ac.uk`
-* [Jack Atkinson](https://iccs.cam.ac.uk/people/jack-atkinson) - `jwa34@cam.ac.uk`
+The nominated Green DiSC representatives for the ICCS RSE team are Surbhi Goel
+(Research Software Engineer) and Jack Atkinson (Principal Research Software Engineer).
+More information about each representative is available on their ICCS profiles linked below.
+
+* [Surbhi Goel](https://iccs.cam.ac.uk/people/surbhi-goel) - `sg2147[AT]cam.ac.uk`
+* [Jack Atkinson](https://iccs.cam.ac.uk/people/jack-atkinson) - `jwa34[AT]cam.ac.uk`
 
 ## Useful Resources
 
