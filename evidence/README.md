@@ -17,6 +17,9 @@ More information about each representative is available on their ICCS profiles l
 * [Surbhi Goel](https://iccs.cam.ac.uk/people/surbhi-goel) - `sg2147[AT]cam.ac.uk`
 * [Jack Atkinson](https://iccs.cam.ac.uk/people/jack-atkinson) - `jwa34[AT]cam.ac.uk`
 
+When a representative needs to change, a replacement will be nominated
+by consensus at the next ICCS team meeting. All the duties and tasks will be documented and updated from time to time to allow an easier onboarding.
+
 ## Structure
 
 Evidence is grouped by GreenDiSC category, with one subdirectory per criterion.
