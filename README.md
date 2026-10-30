@@ -6,7 +6,7 @@ There is an [associated project board](https://github.com/orgs/Cambridge-ICCS/pr
 
 ## Application
 
-The [ICCS RSE Team Submission Form (Google doc)](https://docs.google.com/document/d/1zXrWWSosuzwRIJeXz2wm1QNXPKunVdPA2TIa8RdnHCQ/edit?tab=t.0)
+The [ICCS RSE Team Submission Form (Google doc)](https://docs.google.com/document/d/1PEs7mwzLD952Doz8PxaThrekamqimKjm/edit)
 
 ## Green DiSC representatives
 
