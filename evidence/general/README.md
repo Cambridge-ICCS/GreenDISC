@@ -1,3 +1,5 @@
+Below is the list of General category evidences. For each of the criteria under the general category. The images are attached in the directories mentioned for each. Links are attached here.
+
 ### G1 - Representatives
 
  1. Screenshots of profiles 
@@ -35,11 +37,13 @@
 1. Screenshots of the shared resources and permissions
  - Attached in /G3-resource-sharing: 
  - green-ci skills -> https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md
+ - sustainability initiative -> https://github.com/Cambridge-ICCS/handbook/blob/main/engagement/sustainability.md
 
 2. Links to any external trainings/courses
 
 - https://sdratraining.sparkhub.eu/
 - https://github.com/Cambridge-ICCS/handbook/blob/main/engagement/sustainability.md
+- https://epcced.github.io/2025-07-02_GreenHPC_UCL/
 
 3. Link to the training record sheet
 - https://docs.google.com/spreadsheets/d/1IxOrgmOg3g_BgMkkefgaNP95MXoCWqW8S4_DaDI5oHE/edit?usp=sharing
