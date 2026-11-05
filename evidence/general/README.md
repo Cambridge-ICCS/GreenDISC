@@ -34,6 +34,7 @@
 ### G3 - Resource sharing
 1. Screenshots of the shared resources and permissions
  - Attached in /G3-resource-sharing: 
+ - green-ci skills -> https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md
 
 2. Links to any external trainings/courses
 
@@ -65,6 +66,7 @@
 
 - https://docs.google.com/presentation/d/1_-7Y4WtH_9Y096_sfNdVx8pm48eJWTX78dwg2Kw4ShA/edit?usp=sharing
 - https://docs.google.com/document/d/1bIax-AQOMFSBtw2Z3ZbFMWmuW3ZGhU8VtuAj-LtqDyE/edit?usp=sharing
+- https://docs.google.com/presentation/d/1uMSMJEiAaZ4qS_PaB8zl28WJSw7lk-h76w-I_dRZAY8/edit?slide=id.p#slide=id.p
 
 4. Example of impact
 
