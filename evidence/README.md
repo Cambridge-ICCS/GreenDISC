@@ -57,4 +57,4 @@ identified within the O1 inventory.
 Sustainable computing training taken up by team members (supporting C3)
 is tracked in a separate spreadsheet:
 
-* [Green DiSC Training Record Sheet](https://docs.google.com/spreadsheets/d/1IxOrgmOg3g_BgMkkefgaNP95MXoCWqW8S4_DaDI5oHE/edit?gid=0#gid=0)
+* [Green DiSC Training Record Sheet](https://docs.google.com/spreadsheets/d/1IxOrgmOg3g_BgMkkefgaNP95MXoCWqW8S4_DaDI5oHE)
