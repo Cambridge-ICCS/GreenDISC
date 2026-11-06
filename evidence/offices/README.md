@@ -6,7 +6,8 @@ The directory contains evidences for the Office categoried for each of teh criet
 
 ### O2-reuse-repair-recycle
 1. Written process
--
+- ICCS Policy -
+- University Policy - https://www.em.admin.cam.ac.uk/estate-operations/recycling-and-waste/waste-electrical-and-electronic-equipment-weee
 
 2. Proof it was communicated to the team
--
+- 
