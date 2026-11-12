@@ -1,3 +1,5 @@
+## Data Storage
+
 The directory contains evidences for the Data Storage Category for each of the underlying criteria.
 
 ### DS1-B Data Resource
@@ -6,10 +8,10 @@ The directory contains evidences for the Data Storage Category for each of the u
 
 ### DS2-B Data Cleaning
 1. Policy and its location
-- 
+- TODO
 
 2. Reminder messages
--
+- TODO
 
 3. Record of the first clean
-- 
+- TODO
