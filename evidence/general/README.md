@@ -36,8 +36,9 @@ Below is the list of General category evidences. For each of the criteria under 
 ### G3 - Resource sharing
 1. Screenshots of the shared resources and permissions
  - Attached in evidence/general/G3-resource-sharing/
- - green-ci skills -> https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md
- - sustainability initiative -> https://github.com/Cambridge-ICCS/handbook/blob/main/engagement/sustainability.md
+ - green-ci skills: https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md
+ - sustainability initiative: https://github.com/Cambridge-ICCS/handbook/blob/main/engagement/sustainability.md
+ - ICCS Newsletter - https://iccs.cam.ac.uk/news/iccs-and-green-disc-step-towards-environmentally-sustainable-computing
 
 2. Links to any external trainings/courses
 
@@ -50,7 +51,7 @@ Below is the list of General category evidences. For each of the criteria under 
 
 4. Forum post link/screenshots
 
-- Attached in evidence/general/G3-resource-sharing/
+    ICCS newsletter shared a blog on ICCS's GreenDiSC application initiative. Screenshot ttached in evidence/general/G3-resource-sharing/
 
 5. Messages to other groups/dept
 
