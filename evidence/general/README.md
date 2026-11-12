@@ -2,9 +2,9 @@ Below is the list of General category evidences. For each of the criteria under 
 
 ### G1 - Representatives
 
- 1. Screenshots of profiles 
+ 1. Webpage pdf of profiles 
 
-  - Attached in /G1-induction:
+  - Attached in evidence/general/G1-representative/
 
  2. Link to the profiles on group's website: 
 
@@ -18,16 +18,16 @@ Below is the list of General category evidences. For each of the criteria under 
 
 ### G2 - Induction
 1. Copy of the material 
- - Attached in /G2-induction:
+ - Attached in evidence/general/G2-induction/
 
 2. Links to the material
 
-- Handbook/Induction ->  https://github.com/Cambridge-ICCS/handbook/blob/main/admin/induction.md
+- Handbook/Induction: It is a private repository, Hence screenshots have been attached as mentioned in previous point.
 
 - Training Material Link -> https://sdratraining.sparkhub.eu/
 
 3. Emails or messages showing it was sent
-- Attached in /G2-induction:
+- Attached in evidence/general//G2-induction/
 
 4. Count of new starters 
 - 1
@@ -35,7 +35,7 @@ Below is the list of General category evidences. For each of the criteria under 
 
 ### G3 - Resource sharing
 1. Screenshots of the shared resources and permissions
- - Attached in /G3-resource-sharing: 
+ - Attached in evidence/general/G3-resource-sharing/
  - green-ci skills -> https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md
  - sustainability initiative -> https://github.com/Cambridge-ICCS/handbook/blob/main/engagement/sustainability.md
 
@@ -50,11 +50,11 @@ Below is the list of General category evidences. For each of the criteria under 
 
 4. Forum post link/screenshots
 
-- Attached in /G3-resource-sharing: 
+- Attached in evidence/general/G3-resource-sharing/
 
 5. Messages to other groups/dept
 
-- Attached in /G3-resource-sharing:
+- Attached in evidence/general/G3-resource-sharing/
 
 
 ### G4 - Dissemination
@@ -64,7 +64,7 @@ Below is the list of General category evidences. For each of the criteria under 
 
 2. screenshots of announcements and emails
 
-- Attached in /G4-dissemination
+- Attached in evidence/general/G4-dissemination/
 
 3. Links to the presentations
 
