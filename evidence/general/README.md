@@ -17,7 +17,7 @@ Acronyms used in this document:
 - **DRI:** Digital Research Infrastructure
 - **SIG:** Special Interest Group
 
-## G1 - Representatives
+## G1-B: Appoint a Green DiSC Representative
 
 ICCS has nominated two Green DiSC representatives: Surbhi Goel (Research Software Engineer) and Jack Atkinson (Principal Research Software Engineer).
 
@@ -28,7 +28,7 @@ ICCS has nominated two Green DiSC representatives: Surbhi Goel (Research Softwar
     - Surbhi Goel: [profile page](https://iccs.cam.ac.uk/people/surbhi-goel) · _PDF: [Surbhi Goel profile](G1-representative/Surbhi%20Goel%20_%20Institute%20of%20Computing%20for%20Climate%20Science.pdf)_
     - Jack Atkinson: [profile page](https://iccs.cam.ac.uk/people/jack-atkinson) · _PDF: [Jack Atkinson profile](G1-representative/Jack%20Atkinson%20_%20Institute%20of%20Computing%20for%20Climate%20Science.pdf)_
 
-    The representatives are also named, with contact links, on the ICCS handbook sustainability page, which every team member is asked to read at induction (see [G2](#g2---induction)).
+    The representatives are also named, with contact links, on the ICCS handbook sustainability page, which every team member is asked to read at induction (see [G2](#g2-b-include-digital-sustainability-in-induction-procedures)).
 
  2. Continuity
 
@@ -41,10 +41,10 @@ ICCS has nominated two Green DiSC representatives: Surbhi Goel (Research Softwar
 
 4. Link with central teams
 
-    The representatives act as the link between ICCS and wider University teams. This includes the UIS Wellbeing Team and Research Computing Services (RCS), with whom they have shared the programme (see [G3](#g3---resource-sharing) and [G4](#g4---dissemination)).
+    The representatives act as the link between ICCS and wider University teams. This includes the UIS Wellbeing Team and Research Computing Services (RCS), with whom they have shared the programme (see [G3](#g3-b-share-resources-with-other-groups) and [G4](#g4-b-disseminate-this-program-in-the-institution)).
 
 
-## G2 - Induction
+## G2-B: Include digital sustainability in induction procedures
 1. Copy of the material 
 
     The ICCS handbook is a private repository, so copies are attached here:
@@ -88,7 +88,7 @@ ICCS has nominated two Green DiSC representatives: Surbhi Goel (Research Softwar
     - 1 new starter has joined ICCS since sustainability was added to the induction process. They have completed the mandatory training (see the training record screenshot above).
 
 
-## G3 - Resource sharing
+## G3-B: Share resources with other groups
 
 ICCS shares the resources it has built for Green DiSC with other groups, both inside the University (UIS, RCS and the wider RSE community) and externally.
 
@@ -133,7 +133,7 @@ ICCS shares the resources it has built for Green DiSC with other groups, both in
       _Screenshot: [Dissemination to Cambridge RCS Team.png](G4-dissemination/Dissemination%20to%20Cambridge%20RCS%20Team.png)_
 
 
-## G4 - Dissemination
+## G4-B: Disseminate this program in the institution
 ICCS promotes Green DiSC across the University and the wider RSE community, and encourages other groups to take part.
 
 1. Communication channels
@@ -156,7 +156,7 @@ ICCS promotes Green DiSC across the University and the wider RSE community, and 
 
     - **RCS seminar (3 Nov 2026):** presented the Green DiSC work and invited other RCS groups to get involved.
     - **UIS Wellbeing Team:** the team lead introduced our work to the whole team and invited ICCS to present at their Wellbeing huddle.
-    - **ICCS newsletter and blog (3 Nov 2026):** announced the application and invited other groups to take part (see [G3](#g3---resource-sharing)).
+    - **ICCS newsletter and blog (3 Nov 2026):** announced the application and invited other groups to take part (see [G3](#g3-b-share-resources-with-other-groups)).
     - **Green RSE SIG:** two ICCS RSEs sit on the steering committee, one as Education lead.
     - **Conferences:** RSECon25 poster "Green RSE for Beginners"; talk "Green Software Engineering Practices" (JHU, Baltimore, 2025).
     - **Presentations material:** [slides](https://docs.google.com/presentation/d/1_-7Y4WtH_9Y096_sfNdVx8pm48eJWTX78dwg2Kw4ShA)

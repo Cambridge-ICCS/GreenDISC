@@ -1,7 +1,7 @@
 # Offices
 The directory contains evidences for the Office categoried for each of the crietria (O1-O2).
 
-## O1 - Catalogue the office IT equipment
+## O1-B: Catalog the office IT equipment
 1. Filled inventory
 
     The `Office Inventory` tab of the GreenDiSC inventory sheet lists the hardware used by each ICCS team member (laptops, desktops, monitors, tablets and external drives), with purchase details, current status, and what to do with unused devices. Missing data is flagged so it can be filled in later.
@@ -26,7 +26,7 @@ The directory contains evidences for the Office categoried for each of the criet
 
 
 
-## O2 - Reuse, Repair, Recycle
+## O2-B: Document the "Reuse, Repair, Recycle" process for IT equipment
 
 ICCS follows the University's e-waste process and adds its own practices to keep equipment in use for as long as possible. These are set out in the "Office Equipment Reuse" section of the ICCS Sustainability Policy in the team handbook.
 
@@ -34,7 +34,7 @@ ICCS follows the University's e-waste process and adds its own practices to keep
 
     - **Reuse:** before ordering equipment for a new starter, unused equipment is checked for reuse first (remaining warranty, full functionality, system reset and data wipe).
     - **Extended use:** laptops (Mac, Dell) come with a 5-year warranty. If a device still works well after that, the team is encouraged to keep using it rather than order a new one.
-    - **Leavers:** the line manager updates the inventory to mark a leaver's equipment as unused, so it can be checked for reuse (see [O1](#o1---catalogue-the-office-it-equipment)).
+    - **Leavers:** the line manager updates the inventory to mark a leaver's equipment as unused, so it can be checked for reuse (see [O1](#o1-b-catalog-the-office-it-equipment)).
     - **Recycle:** equipment the team can't reuse goes back to UIS. A service request form is raised, UIS Operations collect the equipment and store it until it is collected by Restore Technology, in line with the [University WEEE policy](https://www.em.admin.cam.ac.uk/estate-operations/recycling-and-waste/waste-electrical-and-electronic-equipment-weee).
 
       _Screenshot: [UIS e-waste process email](O2-reuse-repair-recycle/Reuse%20Repair%20Recycle%20Policy.png)_
