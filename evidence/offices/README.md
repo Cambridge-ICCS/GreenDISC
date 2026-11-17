@@ -24,7 +24,6 @@ The directory contains evidences for the Office categoried for each of the criet
 
         _Screenshot: [Inventory Update for Leavers.png](O2-reuse-repair-recycle/Inventory%20Update%20for%20Leavers.png)_
 
-    - **Yearly review:** <who reviews it and when> TODO
 
 
 ## O2 - Reuse, Repair, Recycle
