@@ -74,28 +74,41 @@ ICCS has nominated two Green DiSC representatives: Surbhi Goel (Research Softwar
 
 
 ## G3 - Resource sharing
-1. Screenshots of the shared resources and permissions
- - Attached in evidence/general/G3-resource-sharing/
- - green-ci skills: https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md
- - sustainability initiative: https://github.com/Cambridge-ICCS/handbook/blob/main/engagement/sustainability.md
- - ICCS Newsletter - https://iccs.cam.ac.uk/news/iccs-and-green-disc-step-towards-environmentally-sustainable-computing
 
-2. Links to any external trainings/courses
+ICCS shares the resources it has built for Green DiSC with other groups, both inside the University (UIS, RCS and the wider RSE community) and externally.
 
-- https://sdratraining.sparkhub.eu/
-- https://github.com/Cambridge-ICCS/handbook/blob/main/engagement/sustainability.md
-- https://epcced.github.io/2025-07-02_GreenHPC_UCL/
+1. Resources identified for sharing
 
-3. Link to the training record sheet
-- https://docs.google.com/spreadsheets/d/1IxOrgmOg3g_BgMkkefgaNP95MXoCWqW8S4_DaDI5oHE/edit?usp=sharing
+    - [GreenDISC repository](https://github.com/Cambridge-ICCS/GreenDISC) (public): our Green DiSC evidence, inventory structure and process, for other groups to reuse.
+    - [ICCS Sustainability Policy](G2-induction/sustainability.md) (public copy of a private handbook page): equipment reuse, training, efficient computing and data cleaning.
+    - [Green CI skill](https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md) (public): practical ways to make CI/CD greener.
+    - [ICCS blog post](https://iccs.cam.ac.uk/news/iccs-and-green-disc-step-towards-environmentally-sustainable-computing) (public, 3 Nov 2026): our approach to Green DiSC, inviting other groups to take part.
 
-4. Forum post link/screenshots
+        _Screenshot: [ICCS Website GreenDiSC Blog.png](G3-resource-sharing/ICCS%20Website%20GreenDiSC%20Blog.png)_
 
-    ICCS newsletter shared a blog on ICCS's GreenDiSC application initiative. Screenshot ttached in evidence/general/G3-resource-sharing/
+2. Shared within the University
 
-5. Messages to other groups/dept
+    - **UIS Wellbeing Team:** We emailed to ask about existing sustainability work in UIS and offered to share what ICCS learns more widely. They replied with interest and arranged a meeting.
+      _Screenshot: [Message to Other group - UIS Wellbeing Team.png](G3-resource-sharing/Message%20to%20Other%20group%20-%20UIS%20Wellbeing%20Team.png)_
+    - **Research Computing Services (RCS):** We asked for a slot in the RCS seminar series (3 Nov 2026) to present the Green DiSC work and how other RCS groups can get involved.
+      _Screenshot: [Message to Other groups - Cambridge RCS Team.png](G3-resource-sharing/Message%20to%20Other%20groups%20-%20Cambridge%20RCS%20Team.png)_
+    - **UIS RSE community:** A Green CI/CD byte-size session (2 Nov 2026, online), delivered by an ICCS RSE and open to all RSEs across UIS.
+      _Screenshot: [Green-CI External Session Announcement.png](G3-resource-sharing/Green-CI%20External%20Session%20Announcement.png)_
 
-- Attached in evidence/general/G3-resource-sharing/
+3. Shared externally
+
+    - **ICCS newsletter:** Featured the Green DiSC application and linked to the blog post. The newsletter goes to ICCS's collaborators across the US and Europe (VESRI/VISS).
+      _Screenshot: [ICCS Newsletter announcing GreenDiSc Application.png](G3-resource-sharing/ICCS%20Newsletter%20announcing%20GreenDiSc%20Application.png)_
+    - **ESCS Forum (Green DiSC category):** TODO: post on the [ESCS Forum](https://forum.escs-community.org/c/green-disc/9) sharing the blog post, the Green CI skill and the GreenDISC repository, then add the post link here.
+      _Screenshot: TODO_
+
+4. Evidence of other groups using the resources
+
+    - **UIS Wellbeing Team:** Following our outreach, the team lead introduced ICCS's Green DiSC work to the whole UIS Wellbeing Team, invited ICCS to present at their Wellbeing huddle, and proposed using it to revive the volunteer-led UIS Green Initiative.
+      _Screenshot: [UIS Wellbeing group Presentation.png](G3-resource-sharing/UIS%20Wellbeing%20group%20Presentation.png)_
+
+    - **Research Computing Services (RCS):** ICCS presented the Green DiSC work and shared resources at the RCS seminar, which was announced to the whole RCS group.
+      _Screenshot: [Dissemination to Cambridge RCS Team.png](G4-dissemination/Dissemination%20to%20Cambridge%20RCS%20Team.png)_
 
 
 ## G4 - Dissemination
