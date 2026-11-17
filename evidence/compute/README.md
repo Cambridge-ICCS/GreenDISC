@@ -40,7 +40,8 @@ The directory contains all the hpc infrastructure related evidences for each of 
     - **Ongoing:** the "Computing" section of the policy asks everyone to _"Keep the HPC Inventory and Compute Pipeline in the inventory sheet up to date"_, adding new workflows, systems or allocations as they start using them.
 
         _Screenshot: [ICCS Sustainability Policy .png](HPC3-best-practices/ICCS%20Sustainability%20Policy%20.png) (see "Computing" section)_
-    - **New starters:** the policy states that _"New joiners are also supposed to fill in hardware and compute use related details in the inventory sheet"_. This is a step on the induction checklist.
+
+    - **New starters:** at induction, new joiners only add their personal hardware to the inventory sheet, as they are not yet allocated to any projects or HPC systems. They read the sustainability policy as part of induction, so they know to add their HPC systems and workflows to the HPC Inventory and Compute Pipeline tabs once they are allocated to a project.
 
         _Screenshot 1: [ICCS Sustainability Policy - GreenDiSC.png](HPC3-best-practices/ICCS%20Sustainability%20Policy%20-%20GreenDiSC.png) (see "For new starters" section)_
 
