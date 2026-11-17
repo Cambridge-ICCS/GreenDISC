@@ -1,6 +1,21 @@
 # General
 
-Below is the list of General category evidences. For each of the criteria under the general category. The images are attached in the directories mentioned for each. Links are attached here.
+This directory contains ICCS's evidence for the General category of the Green DiSC Bronze criteria (G1–G4). Each section below describes the evidence for one criterion, with links to screenshots in that criterion's subdirectory and to external resources.
+
+Acronyms used in this document:
+
+- **ICCS:** [Institute of Computing for Climate Science](https://iccs.cam.ac.uk), University of Cambridge
+- **UIS:** [University Information Services](https://www.uis.cam.ac.uk), the University of Cambridge department to which ICCS belongs
+- **RCS:** [Research Computing Services](https://www.hpc.cam.ac.uk), part of UIS
+- **RSE:** [Research Software Engineer](https://society-rse.org/about/)
+- **SRD:** [Staff Review and Development](https://www.hr.admin.cam.ac.uk/policies-procedures/staff-review-and-development), the University's annual appraisal
+- **CI/CD:** Continuous Integration / Continuous Deployment
+- **ESCS:** [Environmentally Sustainable Computational Science](https://forum.escs-community.org)
+- **VESRI:** [Virtual Earth System Research Institute](https://vesri.org)
+- **VISS:** [Virtual Institute for Scientific Software](https://www.schmidtsciences.org/viss/), Schmidt Sciences
+- **JHU:** [Johns Hopkins University](https://www.jhu.edu)
+- **DRI:** Digital Research Infrastructure
+- **SIG:** Special Interest Group
 
 ## G1 - Representatives
 
@@ -19,7 +34,7 @@ ICCS has nominated two Green DiSC representatives: Surbhi Goel (Research Softwar
 
     If a representative leaves or steps down, a replacement is nominated by consensus at the next ICCS team meeting. The representatives' duties are documented in this repository so a successor can pick them up easily (see the [evidence README](../README.md#green-disc-representatives)).
  
- 3. ### How the role is recognised
+ 3. How the role is recognised
     - `Appraisal`: The role counts towards the Staff Review and Development (SRD) appraisal.
     - `Allocated time`: The work is done within the 20% of job time set aside for development and community engagement, not in spare or personal time.
     - `Career development`: ICCS encourages community engagement and sees the role as an example of taking a lead, which supports personal development.
