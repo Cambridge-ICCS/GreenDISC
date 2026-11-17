@@ -12,7 +12,7 @@ ICCS works on other researchers' projects in a consultancy capacity. As a result
 
     - [Data Resource Inventory sheet](https://docs.google.com/spreadsheets/d/15jcCD2Ig1MkHKncvauN3nEL2SgUuFa67DVHn6lpF7fg/edit?gid=595366698#gid=595366698)
 
-    - **Data held by ICCS:** ICCS does not currently hold any datasets of its own. All datasets in the inventory belong to, and are managed by, the partner researchers whose projects we work on.
+    - **Data held by ICCS:** ICCS does not own in long-term, and any copies that we may make are transferred back to the researchers at the end of the project with a clean of personal/team storage scheduled at the end of a project.
 
 2. How it was gathered and kept up to date
 
