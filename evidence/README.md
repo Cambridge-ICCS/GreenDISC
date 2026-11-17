@@ -44,13 +44,13 @@ Category READMEs:
 | G2  | Include digital sustainability in induction procedures     | `general/G2-induction/`                | When induction material changes        |
 | G3  | Share resources with other groups                          | `general/G3-resource-sharing/`         | Per sharing event                      |
 | G4  | Disseminate this program in the institution                | `general/G4-dissemination/`            | Per promotion activity                 |
-| O1  | Catalog the office IT equipment (including unused)         | `offices/O1-hardware/`                 | Yearly                                 |
+| O1  | Catalog the office IT equipment                            | `offices/O1-hardware/`                 | Yearly                                 |
 | O2  | Document the "Reuse, Repair, Recycle" process for IT equipment | `offices/O2-reuse-repair-recycle/` | When processes change                  |
 | DS1 | Catalog the major data resources used                      | `data-storage/DS1-data-resources/`     | At least yearly                        |
 | DS2 | Start a data cleaning process                              | `data-storage/DS2-data-cleaning/`      | Twice a year (ideal)                   |
-| C1  | Catalog computing infrastructures used                     | `compute/HPC1-infrastructure/`         | At least yearly                        |
+| C1  | Catalog computing infrastructures used                     | `compute/C1-infrastructure/`         | At least yearly                        |
 | C2  | Identify computing workflow hotspots                       | `compute/C2-workflow-hotspots/`        | Yearly                                 |
-| C3  | Collect educational material on sustainable computing best practices | `compute/HPC3-best-practices/` | Per training session          |
+| C3  | Collect educational material on sustainable computing best practices | `compute/C3-best-practices/` | Per training session          |
 
 ## Inventory spreadsheet
 
