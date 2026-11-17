@@ -118,9 +118,9 @@ ICCS shares the resources it has built for Green DiSC with other groups, both in
     - **ICCS newsletter:** Featured the Green DiSC application and linked to the blog post. The newsletter goes to ICCS's collaborators across the US and Europe (VESRI/VISS).
 
       _Screenshot: [ICCS Newsletter announcing GreenDiSc Application.png](G3-resource-sharing/ICCS%20Newsletter%20announcing%20GreenDiSc%20Application.png)_
-    - **ESCS Forum (Green DiSC category):** TODO: post on the [ESCS Forum](https://forum.escs-community.org/c/green-disc/9) sharing the blog post, the Green CI skill and the GreenDISC repository, then add the post link here.
+    - **ESCS Forum (Green DiSC category):** posted _"Green DiSC when you don't own the data or the compute: notes from a consultancy-style RSE team"_ on the [ESCS Forum](https://forum.escs-community.org/c/green-disc/9). It shares how we interpreted the data, compute and inventory criteria as a consultancy-style RSE team, links the GreenDISC evidence repository and the green-ci template, and asks other groups how they have approached the same criteria.
 
-      _Screenshot: TODO_
+      _Screenshot: [ESCS GreenDiSC Post.png](G3-resource-sharing/ESCS%20GreenDiSC%20Post.png)_
 
 4. Evidence of other groups using the resources
 
@@ -159,9 +159,7 @@ ICCS promotes Green DiSC across the University and the wider RSE community, and 
     - **ICCS newsletter and blog (3 Nov 2026):** announced the application and invited other groups to take part (see [G3](#g3---resource-sharing)).
     - **Green RSE SIG:** two ICCS RSEs sit on the steering committee, one as Education lead.
     - **Conferences:** RSECon25 poster "Green RSE for Beginners"; talk "Green Software Engineering Practices" (JHU, Baltimore, 2025).
-    - TODO: add titles for these presentations and make them viewable by link (currently they need a Google sign-in):
-      - https://docs.google.com/presentation/d/1_-7Y4WtH_9Y096_sfNdVx8pm48eJWTX78dwg2Kw4ShA/edit?usp=sharing
-      - https://docs.google.com/document/d/1bIax-AQOMFSBtw2Z3ZbFMWmuW3ZGhU8VtuAj-LtqDyE/edit?usp=sharing
+    - **Presentations material:** [slides](https://docs.google.com/presentation/d/1_-7Y4WtH_9Y096_sfNdVx8pm48eJWTX78dwg2Kw4ShA)
 
 3. Impact on other groups
 
