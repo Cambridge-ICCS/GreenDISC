@@ -159,7 +159,7 @@ ICCS promotes Green DiSC across the University and the wider RSE community, and 
     - **ICCS newsletter and blog (3 Nov 2026):** announced the application and invited other groups to take part (see [G3](#g3---resource-sharing)).
     - **Green RSE SIG:** two ICCS RSEs sit on the steering committee, one as Education lead.
     - **Conferences:** RSECon25 poster "Green RSE for Beginners"; talk "Green Software Engineering Practices" (JHU, Baltimore, 2025).
-    - **Presentations material:** [slides](https://docs.google.com/presentation/d/1_-7Y4WtH_9Y096_sfNdVx8pm48eJWTX78dwg2Kw4ShA/edit?usp=sharing)
+    - **Presentations material:** [slides](https://docs.google.com/presentation/d/1_-7Y4WtH_9Y096_sfNdVx8pm48eJWTX78dwg2Kw4ShA)
 
 3. Impact on other groups
 
