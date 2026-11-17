@@ -25,8 +25,18 @@ by consensus at the next ICCS team meeting. All the duties and tasks will be doc
 
 ## Structure
 
-Evidence is grouped by GreenDiSC category, with one subdirectory per criterion
-holding the evidence files for that criterion.
+Evidence is grouped by GreenDiSC category. Each category has:
+
+* a `README.md` describing the evidence for each criterion, with links to
+  screenshots and external resources (e.g. inventory sheets, blog posts)
+* one subdirectory per criterion holding the screenshots and files for that criterion
+
+Category READMEs:
+
+* [General (G1–G4)](general/README.md)
+* [Offices (O1–O2)](offices/README.md)
+* [Data Storage (DS1–DS2)](data-storage/README.md)
+* [Compute (C1–C3)](compute/README.md)
 
 | ID  | Criterion                                                  | Directory                              | Update frequency                       |
 |-----|------------------------------------------------------------|----------------------------------------|----------------------------------------|
@@ -38,9 +48,9 @@ holding the evidence files for that criterion.
 | O2  | Document the "Reuse, Repair, Recycle" process for IT equipment | `offices/O2-reuse-repair-recycle/` | When processes change                  |
 | DS1 | Catalog the major data resources used                      | `data-storage/DS1-data-resources/`     | At least yearly                        |
 | DS2 | Start a data cleaning process                              | `data-storage/DS2-data-cleaning/`      | Twice a year (ideal)                   |
-| C1  | Catalog computing infrastructures used                     | `compute/C1-infrastructure/`           | At least yearly                        |
+| C1  | Catalog computing infrastructures used                     | `compute/HPC1-infrastructure/`         | At least yearly                        |
 | C2  | Identify computing workflow hotspots                       | `compute/C2-workflow-hotspots/`        | Yearly                                 |
-| C3  | Collect educational material on sustainable computing best practices | `compute/C3-best-practices/` | Per training session            |
+| C3  | Collect educational material on sustainable computing best practices | `compute/HPC3-best-practices/` | Per training session          |
 
 ## Inventory spreadsheet
 
