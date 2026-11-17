@@ -1,39 +1,79 @@
+# General
+
 Below is the list of General category evidences. For each of the criteria under the general category. The images are attached in the directories mentioned for each. Links are attached here.
 
-### G1 - Representatives
+## G1 - Representatives
 
- 1. Webpage pdf of profiles 
+ICCS has nominated two Green DiSC representatives: Surbhi Goel (Research Software Engineer) and Jack Atkinson (Principal Research Software Engineer).
 
-  - Attached in evidence/general/G1-representative/
+ 1. Documentation of the nomination
 
- 2. Link to the profiles on group's website: 
+    Both representatives' public ICCS profile pages include a "Green DiSC" section. It describes their role, which is coordinating ICCS's work towards Bronze certification, tracking hardware, data and infrastructure inventories, and promoting green computing through training and shared resources. It also gives their institutional email as the contact for sustainable computing questions.
 
-- https://iccs.cam.ac.uk/people/surbhi-goel
-- https://iccs.cam.ac.uk/people/jack-atkinson
+    - Surbhi Goel: [profile page](https://iccs.cam.ac.uk/people/surbhi-goel) · _PDF: [Surbhi Goel profile](G1-representative/Surbhi%20Goel%20_%20Institute%20of%20Computing%20for%20Climate%20Science.pdf)_
+    - Jack Atkinson: [profile page](https://iccs.cam.ac.uk/people/jack-atkinson) · _PDF: [Jack Atkinson profile](G1-representative/Jack%20Atkinson%20_%20Institute%20of%20Computing%20for%20Climate%20Science.pdf)_
 
- 3. List of ways the role is recognised:
-- Being a representative feeds towards Staff Review and Development Appraisal process
-- Being a representative is part of 20% time in job allocated for development and community engagement - it is not expected to be done in spare/personal time.
-- Community engagement is encouraged at ICCS and this role is seen as an example of taking a lead and feeding towards personal development.
+    The representatives are also named, with contact links, on the ICCS handbook sustainability page, which every team member is asked to read at induction (see [G2](#g2---induction)).
 
-### G2 - Induction
+ 2. Continuity
+
+    If a representative leaves or steps down, a replacement is nominated by consensus at the next ICCS team meeting. The representatives' duties are documented in this repository so a successor can pick them up easily (see the [evidence README](../README.md#green-disc-representatives)).
+ 
+ 3. ### How the role is recognised
+    - `Appraisal`: The role counts towards the Staff Review and Development (SRD) appraisal.
+    - `Allocated time`: The work is done within the 20% of job time set aside for development and community engagement, not in spare or personal time.
+    - `Career development`: ICCS encourages community engagement and sees the role as an example of taking a lead, which supports personal development.
+
+4. Link with central teams
+
+    The representatives act as the link between ICCS and wider University teams. This includes the UIS Wellbeing Team and Research Computing Services (RCS), with whom they have shared the programme (see [G3](#g3---resource-sharing) and [G4](#g4---dissemination)).
+
+
+## G2 - Induction
 1. Copy of the material 
- - Attached in evidence/general/G2-induction/
 
-2. Links to the material
+    The ICCS handbook is a private repository, so copies are attached here:
 
-- Handbook/Induction: It is a private repository, Hence screenshots have been attached as mentioned in previous point.
+    - Handbook sustainability page (`engagement/sustainability.md`): It is written by ICCS and introduces Green DiSC, names the representatives, links the inventory sheet, sets expectations for new starters and existing staff, and lists further reading.
 
-- Training Material Link -> https://sdratraining.sparkhub.eu/
+        _Copy: [sustainability.md](G2-induction/sustainability.md)_
 
-3. Emails or messages showing it was sent
-- Attached in evidence/general//G2-induction/
+        _Screenshots: [ICCS Sustainability Policy - GreenDiSC.png](G2-induction/ICCS%20Sustainability%20Policy%20-%20GreenDiSC.png), [ICCS Sustainability Policy.png](G2-induction/ICCS%20Sustainability%20Policy.png)_
 
-4. Count of new starters 
-- 1
+    - Induction checklist: The GreenDiSC items in the ICCS induction checklist.
+
+      _Screenshot: [Induction Checklist.png](G2-induction/Induction%20Checklist.png)_
+
+    - External training: [Emissions of Digital Research Infrastructure](https://sdratraining.sparkhub.eu/)
+
+2. How the material is shared
+
+    The internal handbook is a private repository, so screenshots and a copy are attached (see above). They include:
+
+    - The induction checklist items are shared with new starters at induction and checked off as they complete them during their first week at ICCS. The items are: read the handbook sustainability page, complete the training, and get added to the GreenDiSC inventory sheet with an explanation of how to fill it in.
+
+    - All new starters are expected to complete the [training material](https://sdratraining.sparkhub.eu/) to gain an overview of technological sustainability in the digital workplace.
+
+    - Existing staff were also asked to complete the same training by a fixed deadline. Completion is tracked in the [training record sheet](https://docs.google.com/spreadsheets/d/1IxOrgmOg3g_BgMkkefgaNP95MXoCWqW8S4_DaDI5oHE/edit?usp=sharing).
+
+3. Communication showing it was shared
+
+    At induction, each new starter's line manager walks them through the induction checklist, including the GreenDiSC items: reviewing the handbook sustainability page, completing the mandatory *Emissions of Digital Research Infrastructure* (DRI Emissions) training, and being added to the GreenDiSC inventory sheet.
+
+    - The induction checklist items that set out the training for the new starter.
+
+      _Screenshot: [Induction Checklist.png](G2-induction/Induction%20Checklist.png)_
+
+    - The training record sheet showing the new starter (highlighted in teh scrrenshot) has completed the mandatory DRI Emissions training as part of their induction.
+
+      _Screenshot: [New Joinee Training Completed.png](G2-induction/New%20Joinee%20Training%20Completed.png)_
+
+4. Number of new starters who have received it
+
+    - 1 new starter has joined ICCS since sustainability was added to the induction process. They have completed the mandatory training (see the training record screenshot above).
 
 
-### G3 - Resource sharing
+## G3 - Resource sharing
 1. Screenshots of the shared resources and permissions
  - Attached in evidence/general/G3-resource-sharing/
  - green-ci skills: https://github.com/Cambridge-ICCS/ICCS-SKILLS/blob/main/skills/green-ci/SKILL.md
@@ -58,7 +98,7 @@ Below is the list of General category evidences. For each of the criteria under 
 - Attached in evidence/general/G3-resource-sharing/
 
 
-### G4 - Dissemination
+## G4 - Dissemination
 
 1. List of channels 
 - Slack, Email, newsletter, Teams Chat
