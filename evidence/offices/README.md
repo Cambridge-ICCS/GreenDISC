@@ -49,4 +49,6 @@ ICCS follows the University's e-waste process and adds its own practices to keep
 
 3. Proof it was communicated to the team
 
-    - TODO: email to the team announcing the policy. _Screenshot: TODO_
+    - TODO: email to the team announcing the policy.
+    
+     _Screenshot: TODO_
