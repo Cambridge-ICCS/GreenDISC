@@ -83,6 +83,10 @@ The directory contains all the hpc infrastructure related evidences for each of 
 
         _Screenshot 2: [ICCS Sustainability Policy.png](C3-best-practices/ICCS%20Sustainability%20Policy%20.png)_
 
+    - **Team meeting:** the Green DiSC representatives presented the Sustainability Policy, including its "Computing" best practices and "Training" sections, to the whole team at the ICCS team meeting on 18 Nov 2026.
+
+        _Screenshot: [Policy Communication to Team.png](C3-best-practices/Policy%20Communication%20to%20Team.png)_
+
     - **Induction checklist:** includes three Green DiSC items: read the handbook page, complete the *Emissions of Digital Research Infrastructure* training, and get added to the inventory sheet with an explanation of how to fill it in. This makes sure every new joiner sees the material in their first weeks.
 
         _Screenshot: [Induction Checklist.png](C3-best-practices/Induction%20Checklist.png)_
