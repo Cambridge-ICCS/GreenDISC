@@ -49,6 +49,6 @@ ICCS follows the University's e-waste process and adds its own practices to keep
 
 3. Proof it was communicated to the team
 
-    - TODO: email to the team announcing the policy.
-    
-     _Screenshot: TODO_
+    The ICCS Sustainability Policy was presented to the whole team by the Green DiSC representatives at the ICCS team meeting on 18 Nov 2026, as the "Green DiSC Sustainability Policy" agenda item. The meeting notes record that the policy has been added to the team handbook and linked to it.
+
+    _Screenshot: [Policy Communication to Team.png](O2-reuse-repair-recycle/Policy%20Communication%20to%20Team.png)_
