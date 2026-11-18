@@ -24,6 +24,10 @@ ICCS works on other researchers' projects in a consultancy capacity. As a result
 
       _Screenshot: [Data Cleaning Policy.png](DS2-data-cleaning/Data%20Cleaning%20Policy.png)_
 
+    - **Communicated to the team:** the Green DiSC representatives presented the Sustainability Policy, including this logging requirement, to the whole team at the ICCS team meeting on 18 Nov 2026.
+
+      _Screenshot: [Policy Communication to Team.png](DS1-data-resources/Policy%20Communication%20to%20Team.png)_
+
 
 
 ## DS2-B: Start a data cleaning process
@@ -38,6 +42,10 @@ ICCS works on other researchers' projects in a consultancy capacity. As a result
     - **What is kept:** data needed beyond the project needs a reason (e.g. possible extension, reproducibility, shared with other projects). Data the PI needs afterwards is transferred to them, or ownership is transferred.
 
     _Screenshot: [Data Cleaning Policy.png](DS2-data-cleaning/Data%20Cleaning%20Policy.png)_ (the handbook is a private repository)
+
+    **Communicated to the team:** the Green DiSC representatives presented the Sustainability Policy, including the Data Cleaning section, to the whole team at the ICCS team meeting on 18 Nov 2026, so every Project Lead and RSE knows the process.
+
+    _Screenshot: [Policy Communication to Team.png](DS2-data-cleaning/Policy%20Communication%20to%20Team.png)_
 
 
 2. Status of the first clean

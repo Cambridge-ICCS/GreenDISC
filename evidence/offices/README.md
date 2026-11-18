@@ -24,6 +24,10 @@ The directory contains evidences for the Office categoried for each of the criet
 
         _Screenshot: [Inventory Update for Leavers.png](O2-reuse-repair-recycle/Inventory%20Update%20for%20Leavers.png)_
 
+    - **Communicated to the team:** the Green DiSC representatives presented the Sustainability Policy, including these inventory update rules, to the whole team at the ICCS team meeting on 18 Nov 2026.
+
+        _Screenshot: [Policy Communication to Team.png](O1-hardware/Policy%20Communication%20to%20Team.png)_
+
 
 
 ## O2-B: Document the "Reuse, Repair, Recycle" process for IT equipment
