@@ -2,7 +2,7 @@
 
 The directory contains evidences for the Data Storage Category for each of the underlying criteria (DS1-DS2).
 
-## DS1-B Catalogue the major data resources
+## DS1-B: Catalog the major data resources used
 
 ICCS works on other researchers' projects in a consultancy capacity. As a result we rarely hold long-term datasets of our own, and mostly work with data that belongs to, and is stored and managed by, the partner researchers. When we do use data, we aim to share good data practice with the groups we work with (e.g. avoiding duplicate copies and cleaning up at the end of a project).
 
@@ -26,7 +26,7 @@ ICCS works on other researchers' projects in a consultancy capacity. As a result
 
 
 
-## DS2-B Data cleaning process
+## DS2-B: Start a data cleaning process
 
 1. Policy and where it is located
 

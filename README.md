@@ -4,6 +4,10 @@ This repository is being used to track progression for the ICCS RSE team towards
 
 There is an [associated project board](https://github.com/orgs/Cambridge-ICCS/projects/59) to track issues and progression.
 
+## Evidence
+
+Evidence for each Bronze criterion is in the [`evidence/`](evidence/README.md) directory, organised by category (General, Offices, Data Storage, Compute). Each category has its own README describing the evidence, with links to screenshots and inventory sheets.
+
 ## Application
 
 The [ICCS RSE Team Submission Form (Google doc)](https://docs.google.com/document/d/1PEs7mwzLD952Doz8PxaThrekamqimKjm)
